@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Data Projects Portfolio
 
-You can use the [editor on GitHub](https://github.com/annafedotova/project-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a repository of the projects I worked on or currently working on. The projects are either written in Python (Jupyter Notebook) or R (R markdown). The goal of the projects is to apply data analysis techniques to uncover interesting insisghts in the data. See below a brief description of each project and click on the corresponding link to see full analysis and code.
+ 
+## Projects:
+ 
+###  [Sources Quality Rank](https://github.com/annafedotova/sources-quality-rank)
+* Wrote a SQL query that extracts the data from multiple databases and combines them into one table
+* Automated the task of finding best traffic sources for a campaign by building a recommender dashboard in Tableau
+* **Keywords**: *SQL, Tableau*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###  [Gun Sales Analysis](https://github.com/annafedotova/gun_sales_usa)
+* Explored the trends and tendencies of gun sales in the USA in 1998 - 2018
+* Analyzed correlation between gun sales and census data per state
+* Visualized valuable insights and relationships using Matplotlib
+* **Keywords**: *Python, data visualization, correlation*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  [EDA of Video Games Sales](https://github.com/annafedotova/video-games-explore)
+* Performed exploratory data analysis for video games market
+* Visualized the underlying relationships in the data using ggplot2 and plotly libraries
+* Fitted Logistic Regression model on video games sales to predict whether a game will become a bestseller
+* **Keywords**: *R, Exploratory Data Analysis, Logistic Regression*
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annafedotova/project-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###  [WeRateDogs tweets analysis](https://github.com/annafedotova/weratedogs)
+* Gathered data from multiple sources, including Twitter API
+* Performed data cleaning and analyzed multiple trends
+* Presented main insights, such as account's KPIs evolution (tweets, retweets and likes), ratings distributions and evolution, most liked and retweeted dogs
+* **Keywords**: *Python, Data Wrangling, Twitter API*
