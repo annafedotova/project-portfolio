@@ -1,6 +1,6 @@
 # Data Projects Portfolio
 
-This is a repository of the projects I worked on or currently working on. The projects are either written in Python (Jupyter Notebook) or R (R markdown). The goal of the projects is to apply data analysis techniques to uncover interesting insisghts in the data. See below a brief description of each project and click on the corresponding link to see full analysis and code.
+This is a repository of the projects I worked on or currently working on. The projects are either written in Python (Jupyter Notebook) or R (R markdown). The goal of the projects is to apply data analysis techniques to uncover interesting insights in the data. See below a brief description of each project and click on the corresponding link to see full analysis and code.
  
 ## Projects:
  
